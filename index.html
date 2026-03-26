@@ -520,7 +520,7 @@
 let DATA = null;
 
 async function loadData() {
-  const r = await fetch('bracket data.json');
+  const r = await fetch('bracket_data.json');
   DATA = await r.json();
   initApp();
 }
