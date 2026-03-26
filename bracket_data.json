@@ -9078,82 +9078,82 @@
     "E-R2: Duke rgn": {
       "round": "Round 2",
       "gameNum": 1,
-      "matchup": "Duke vs TCU"
+      "matchup": "Duke vs TCU (E)"
     },
     "E-R2: MichSt rgn": {
       "round": "Round 2",
       "gameNum": 2,
-      "matchup": "Mich St vs Louisville"
+      "matchup": "Michigan St vs Louisville (E)"
     },
     "E-R2: StJ's rgn": {
       "round": "Round 2",
       "gameNum": 3,
-      "matchup": "St. John's vs Kansas"
+      "matchup": "St. John's vs Kansas (E)"
     },
     "E-R2: UConn rgn": {
       "round": "Round 2",
       "gameNum": 4,
-      "matchup": "UConn vs UCLA"
+      "matchup": "UConn vs UCLA (E)"
     },
     "S-R2: Neb rgn": {
       "round": "Round 2",
       "gameNum": 5,
-      "matchup": "Nebraska vs Vanderbilt"
+      "matchup": "Nebraska vs Vanderbilt (S)"
     },
     "S-R2: Illinois rgn": {
       "round": "Round 2",
       "gameNum": 6,
-      "matchup": "Illinois vs VCU"
+      "matchup": "Illinois vs VCU (S)"
     },
     "S-R2: Iowa rgn": {
       "round": "Round 2",
       "gameNum": 7,
-      "matchup": "Iowa vs Florida"
+      "matchup": "Iowa vs Florida (S)"
     },
     "S-R2: Houston rgn": {
       "round": "Round 2",
       "gameNum": 8,
-      "matchup": "Houston vs Tex A&M"
+      "matchup": "Houston vs Tex A&M (S)"
     },
     "W-R2: Ark rgn": {
       "round": "Round 2",
       "gameNum": 9,
-      "matchup": "Arkansas vs High Point"
+      "matchup": "Arkansas vs High Point (W)"
     },
     "W-R2: Texas rgn": {
       "round": "Round 2",
       "gameNum": 10,
-      "matchup": "Texas vs Gonzaga"
+      "matchup": "Texas vs Gonzaga (W)"
     },
     "W-R2: Arizona rgn": {
       "round": "Round 2",
       "gameNum": 11,
-      "matchup": "Arizona vs Utah State"
+      "matchup": "Arizona vs Utah State (W)"
     },
     "W-R2: Purdue rgn": {
       "round": "Round 2",
       "gameNum": 12,
-      "matchup": "Purdue vs Miami"
+      "matchup": "Purdue vs Miami (W)"
     },
     "M-R2: Mich rgn": {
       "round": "Round 2",
       "gameNum": 13,
-      "matchup": "Michigan vs Saint Louis"
+      "matchup": "Michigan vs Saint Louis (M)"
     },
     "M-R2: IowaSt rgn": {
       "round": "Round 2",
       "gameNum": 14,
-      "matchup": "Iowa State vs Kentucky"
+      "matchup": "Iowa State vs Kentucky (M)"
     },
     "M-R2: Tenn rgn": {
       "round": "Round 2",
       "gameNum": 15,
-      "matchup": "Tennessee vs Virginia"
+      "matchup": "Tennessee vs Virginia (M)"
     },
     "M-R2: Alabama rgn": {
       "round": "Round 2",
       "gameNum": 16,
-      "matchup": "Alabama vs Tex Tech"
+      "matchup": "Alabama vs Tex Tech (M)"
     },
     "S16: Duke/StJ's": {
       "round": "Sweet 16",
@@ -9163,7 +9163,7 @@
     "S16: UConn/MichSt": {
       "round": "Sweet 16",
       "gameNum": 2,
-      "matchup": "UConn vs Mich St"
+      "matchup": "UConn vs Michigan St"
     },
     "S16: Neb/Iowa": {
       "round": "Sweet 16",
@@ -9193,7 +9193,7 @@
     "S16: IowaSt/Tenn": {
       "round": "Sweet 16",
       "gameNum": 8,
-      "matchup": "Iowa St vs Tennessee"
+      "matchup": "Iowa State vs Tennessee"
     },
     "E8: East": {
       "round": "Elite 8",
@@ -9218,17 +9218,17 @@
     "FF: Semi 1": {
       "round": "Final Four",
       "gameNum": 1,
-      "matchup": "Final Four Semifinal 1"
+      "matchup": "Final Four \u2014 Semifinal 1"
     },
     "FF: Semi 2": {
       "round": "Final Four",
       "gameNum": 2,
-      "matchup": "Final Four Semifinal 2"
+      "matchup": "Final Four \u2014 Semifinal 2"
     },
     "Championship": {
-      "round": "Champ",
+      "round": "Championship",
       "gameNum": 1,
-      "matchup": "Championship"
+      "matchup": "National Championship"
     }
   },
   "winnersLookup": {
